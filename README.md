@@ -1,4 +1,4 @@
-#LinkTextView
+处理内嵌超链接文本的TextView
 
 添加gradle依赖：
 >  compile 'com.wangzhen:LinkTextView:1.0.0'
