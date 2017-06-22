@@ -28,7 +28,7 @@ dependencies {
 
 //添加
 publish {
-    userOrg = 'lavalike '//bintray.com用户名
+    userOrg = 'lavalike'//bintray.com用户名
     groupId = 'com.wangzhen'//jcenter上的路径
     artifactId = 'LinkTextView'//项目名称
     publishVersion = '1.0.0'
